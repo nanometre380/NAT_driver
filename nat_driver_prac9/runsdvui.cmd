@@ -1,0 +1,2 @@
+cd /d "C:\Users\WORK-Kim\Documents\NAT_driver\practice\nat_driver_prac9\nat_driver_prac9" &msbuild "nat_driver_prac9.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform="x64" /p:SolutionDir="C:\Users\WORK-Kim\Documents\NAT_driver\practice\nat_driver_prac9" 
+exit %errorlevel% 
